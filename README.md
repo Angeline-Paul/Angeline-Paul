@@ -1,4 +1,10 @@
-## Hi there 👋
+# 👋 Hi, I'm Angeline Paul
+**Senior Data Engineering Manager | Cloud & AI Enthusiast**
+
+🔹 **Expertise:** Python, SQL, GCP, Azure  
+🔹 **Current Projects:** Data Vault Pipelines, Streaming Analytics  
+🔹 **Connect with me:** [LinkedIn](https://linkedin.com/in/angeline-paul)
+
 
 <!--
 **Angeline-Paul/Angeline-Paul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
