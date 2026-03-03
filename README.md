@@ -45,7 +45,7 @@ I am currently on a professional development sabbatical focusing on the future o
 ---
 
 ### 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[YOUR-USERNAME]&show_icons=true&theme=nord)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Angeline-Paul&show_icons=true&theme=nord)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR-USERNAME]&layout=compact&theme=nord)
 
 ---
