@@ -55,7 +55,7 @@ I am currently on a professional development sabbatical focusing on the future o
 - 📧 **Email:** [angeline.juliette@gmail.com](mailto:angeline.juliette@gmail.com)
 
 ---
-> "Leading data strategies that transform complex numbers into actionable business value."
+
 ### Certifications
 
 - [AI-900: Microsoft Certified: Azure AI Fundamentals](https://learn.microsoft.com/en-us/certifications/azure-ai-fundamentals/)
